@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oovochaik.specifiedbehavior.com/sitemap.xml
